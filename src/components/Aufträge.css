@@ -1,0 +1,40 @@
+*{
+    background-color: rgb(245, 245, 245 );
+}
+.img2{
+    height:35vh;
+    margin-left: 190%;
+    box-shadow: 10px 10px #00DEAC;
+    width:26vw;
+    
+    
+
+}
+.button2{
+    height:2rem;
+    box-shadow: 0px 1.5px #00DEAC;
+    float: right;
+    margin-top: 20%;
+    font-weight: bold;
+     
+    
+}
+.heading2{
+
+ display: flex;
+ justify-content: flex-start;
+ align-items: right;
+ padding: 80px 90px;
+ margin-top: 1%;
+}
+.section2{
+    width: 94vw;
+    height: 39vh;
+  
+
+}
+.auftrag{
+
+margin-top: 3%;
+margin-left:4% ;
+}

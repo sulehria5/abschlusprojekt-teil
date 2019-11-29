@@ -1,0 +1,37 @@
+*{
+    background-color: rgb(245, 245, 245 );
+}
+.img1{
+    height:35vh;
+    margin-top: 1%;
+    margin-left: 10%;
+    box-shadow: 10px 10px #00DEAC;
+    width:26vw;
+    
+
+}
+.button1{
+    height:2rem;
+    box-shadow: 0px 1.5px #00DEAC;
+    float: right;
+    margin-top: 20%;
+    font-weight: bold;
+     
+    
+}
+.heading1{
+
+ display: flex;
+ justify-content: space-evenly;
+ align-items: right;
+ padding: 10px 270px ;
+
+}
+
+
+.section1{
+  width: 94vw;
+  height: 39vh;
+  
+
+}
