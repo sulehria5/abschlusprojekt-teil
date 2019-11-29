@@ -1,6 +1,6 @@
 {
   "homepage" : "http://myname.github.io/myapp",
-  "name": "abschlusprojekt-teil",
+
   "version": "0.1.0",
   "private": true,
   "dependencies": {
