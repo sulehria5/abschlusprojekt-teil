@@ -1,6 +1,6 @@
 {
-  "homepage" : "http://myname.github.io/myapp",
-
+  "homepage" : "http://sulehria5.github.io/myapp",
+  "name" : "abschlusprojekt",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
