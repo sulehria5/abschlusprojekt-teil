@@ -1,5 +1,9 @@
+@media only screen and (max-width: 500px) {
+   
+}
 *{
     background-color: rgb(245, 245, 245 );
+     margin-top: 10vh;
 }
 .img2{
     height:35vh;
